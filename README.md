@@ -5,7 +5,7 @@
 Демо: http://www.apelserg.ru/open-html5-toolbox/toolbox-jstimer/toolbox-jstimer.htm
 
 
-Статья (Наблюдение за работой JavaScript-таймеров в реальном времени):
+Статья (Наблюдение за работой JavaScript-таймеров в реальном времени): http://habrahabr.ru/post/260449/
 
 
 E-mail: apelserg@mail.ru
